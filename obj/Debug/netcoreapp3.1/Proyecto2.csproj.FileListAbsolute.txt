@@ -1,0 +1,11 @@
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.exe
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.deps.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.runtimeconfig.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.runtimeconfig.dev.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.dll
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto2.pdb
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto2.AssemblyInfoInputs.cache
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto2.AssemblyInfo.cs
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto2.dll
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto2.pdb
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto2.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.exe
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.deps.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.runtimeconfig.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.runtimeconfig.dev.json
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.dll
+D:\Proyectos Programación\Proyecto2\bin\Debug\netcoreapp3.1\Proyecto1.pdb
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto1.csprojAssemblyReference.cache
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto1.AssemblyInfoInputs.cache
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto1.AssemblyInfo.cs
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto1.dll
+D:\Proyectos Programación\Proyecto2\obj\Debug\netcoreapp3.1\Proyecto1.pdb
